@@ -10,7 +10,7 @@ const testimonials = [
     role: "Regular Customer",
     content:
       "I've been coming to this salon for over a year now and I'm always impressed with the results. The stylists are professional, friendly, and really listen to what you want.",
-    avatar: "/placeholder.svg?height=100&width=100",
+    avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bW9kZWx8ZW58MHx8MHx8fDA%3D",
     rating: 5,
   },
   {
@@ -18,7 +18,7 @@ const testimonials = [
     role: "First-time Customer",
     content:
       "As someone who's always nervous about trying new salons, I was pleasantly surprised. My stylist took the time to understand exactly what I wanted and delivered perfectly.",
-    avatar: "/placeholder.svg?height=100&width=100",
+    avatar: "https://images.unsplash.com/photo-1492288991661-058aa541ff43?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fG1vZGVsfGVufDB8fDB8fHww",
     rating: 5,
   },
   {
@@ -26,7 +26,7 @@ const testimonials = [
     role: "Monthly Client",
     content:
       "The atmosphere is so welcoming and the service is consistently excellent. I wouldn't trust my hair with anyone else!",
-    avatar: "/placeholder.svg?height=100&width=100",
+    avatar: "https://plus.unsplash.com/premium_photo-1708110921398-1fc68e98eacc?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzd8fG1vZGVsfGVufDB8fDB8fHww",
     rating: 4,
   },
 ]
