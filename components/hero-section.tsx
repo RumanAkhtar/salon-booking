@@ -44,7 +44,7 @@ export default function HeroSection() {
           >
             <div className="overflow-hidden rounded-lg shadow-xl">
               <img
-                src="/placeholder.svg?height=600&width=800"
+                src="https://images.unsplash.com/photo-1583843364289-0d1b2978874c?q=80&w=2667&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Salon interior"
                 className="h-full w-full object-cover"
               />

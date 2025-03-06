@@ -10,25 +10,27 @@ const stylists = [
     name: "Alex Johnson",
     role: "Senior Stylist & Founder",
     bio: "With over 15 years of experience, Alex founded our salon with a vision to create a space where everyone feels welcome and leaves looking their best.",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images.unsplash.com/photo-1618049049816-43a00d5b0c3d?q=80&w=3080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Jamie Smith",
     role: "Color Specialist",
     bio: "Jamie has a natural eye for color and specializes in balayage and creative coloring techniques. Their work has been featured in several fashion magazines.",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images.unsplash.com/photo-1587776535733-b4c80a99ef82?q=80&w=2209&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
     name: "Taylor Brown",
     role: "Cutting Expert",
     bio: "Known for precision cuts and attention to detail, Taylor can transform any hair type into a masterpiece. They're constantly learning new techniques to bring to our clients.",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images.unsplash.com/photo-1492106087820-71f1a00d2b11?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTI0fHxoYWlyY3V0fGVufDB8fDB8fHww",
+
   },
   {
     name: "Jordan Davis",
     role: "Styling Specialist",
     bio: "Jordan excels in special occasion styling and updos. Their work has been featured in weddings and events throughout the city.",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "https://images.unsplash.com/photo-1584029307290-2acd5258bde4?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+
   },
 ]
 
@@ -107,7 +109,7 @@ export default function AboutPage() {
             transition={{ duration: 0.5, delay: 0.3 }}
           >
             <Image
-              src="/placeholder.svg?height=600&width=800"
+              src="https://plus.unsplash.com/premium_photo-1677444546740-7092c86ac54d?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Salon interior"
               width={800}
               height={600}
